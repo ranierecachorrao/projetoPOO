@@ -1,0 +1,5 @@
+Dizemos que existe composição em um projeto quando um objeto ou classe é formada por outros objetos
+em sua implementação interna, ou seja, um compõe o outro, sem o que compõe o composto não existe.
+
+Já no caso da herança, dizemos que ela existe quando sub-classes herdam atributos e métodos de uma super classe,
+e a super classe não deixa de existir caso deixe de existir as sub-classes.

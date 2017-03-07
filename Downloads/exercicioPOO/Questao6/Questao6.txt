@@ -1,0 +1,14 @@
+As Classes Abstratas são classes que não podem ser instanciadas, apenas herdadas.
+Elas podem ter métodos abstratos sem implementação interna e métodos normais com 
+implementações, a sub classe que herdar a Classe abstrata herda também seus atributos e seus
+métodos já implementados, e seá obrigado a implementar os métodos abstratos .
+
+As interfaces são classes 100% abstratas e não podem ser instanciadas também, possuem métodos
+publicos não implementados internamente, uma classe pode implementar n interfaces.
+
+Uma Classe Abstrata é útil quando você precisa definir o corpo dos métodos e se ainda 
+assim precisar, pode criar métodos abstratos para serem implementados pela classe que herda ela.
+
+Já uma Interface é útil por exemplo, quando você quer que classes tenham métodos com a mesma 
+assinatura mas implementações diferentes, você cria uma interface para definir assinatura 
+destes métodos. As classes então implementam eles da maneira que querem.  
