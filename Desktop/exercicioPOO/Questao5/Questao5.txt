@@ -1,0 +1,8 @@
+A Sobreposição de métodos ocorre quando há polimorfismo, um exemplo 
+é de uma super classe que possui um método, e duas sub-classes
+implementam esse mesmo método com mesma assinatura porém com estrutura
+diferente sobrescrevendo a estrutura do método da super classe.
+
+Já a sobrecarga de métodos ocorre quando a mesma classe possui dois métodos
+com mesma assinatura porém com lista de argumentos diferentes, isso ocorre
+por exemplo quando uma classe implementa dois construtores. 
